@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Notes</string>
+    <string name="title_home">Inicio</string>
+    <string name="title_calendar">Calendario</string>
+    <string name="title_tareas">Tareas</string>
+
+
+    <string name="tituloHome">Resumen de tareas</string>
+    <string name="tareasPendientesHome">Tareas Pendientes</string>
+    <string name="tareasCompletadasHome">Tareas Completadas</string>
+    <string name="tareasProxHome">Tareas en los próximos 7 días</string>
+    <string name="fechaTitleCalendar">Fecha</string>
+
+</resources>
