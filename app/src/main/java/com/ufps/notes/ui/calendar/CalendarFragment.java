@@ -11,6 +11,8 @@ import androidx.annotation.NonNull;
 import androidx.fragment.app.Fragment;
 import androidx.lifecycle.ViewModelProvider;
 
+import com.ufps.notes.MainActivity;
+import com.ufps.notes.R;
 import com.ufps.notes.databinding.FragmentCalendarBinding;
 
 public class CalendarFragment extends Fragment {
@@ -25,6 +27,7 @@ public class CalendarFragment extends Fragment {
 
         binding = FragmentCalendarBinding.inflate(inflater, container, false);
         View root = binding.getRoot();
+
 
         //final TextView textView = binding.textCalendar;
         //calendarViewModel.getText().observe(getViewLifecycleOwner(), textView::setText);
